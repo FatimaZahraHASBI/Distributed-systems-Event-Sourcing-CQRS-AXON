@@ -49,8 +49,9 @@ Voici comment cela pourrait se traduire visuellement :<br>
 
 ## 🔹 2- Diagramme de classe 
 
-=======
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/63150702/209522389-188131d5-d956-476f-97b4-4daed8b44894.png" >
+</p>
 
 
 <div style=" font-size: medium; color: #447ff7" align=center>
